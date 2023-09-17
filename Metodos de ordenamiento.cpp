@@ -1,3 +1,11 @@
+/*
+// Materia: Programación I, Paralelo 4
+
+// Autor: Nahir Casablanca Mansilla
+
+// Fecha : 14/09/23
+*/
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
